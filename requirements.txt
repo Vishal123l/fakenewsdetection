@@ -18,8 +18,6 @@ jupyter-console==6.1.0
 jupyter-core==4.6.3
 jupyterlab==2.1.5
 
-Keras==2.4.3
-Keras-Preprocessing==1.1.2
 
 
 Markdown==3.3.4
@@ -38,11 +36,7 @@ packaging==20.4
 pandas== 1.0.5
 
 pywhatkit==3.9
-pywin32==227
-pywin32-ctypes==0.2.0
-pywinpty==0.5.7
-PyYAML==5.3.1
-pyzmq==19.0.1
+
 QDarkStyle==2.8.1
 QtAwesome==0.7.2
 
@@ -66,10 +60,7 @@ statsmodels==0.11.1
 
 tables==3.6.1
 tblib==1.6.0
-tensorboard==2.4.1
-tensorboard-plugin-wit==1.8.0
-tensorflow==2.4.1
-tensorflow-estimator==2.4.0
+
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
