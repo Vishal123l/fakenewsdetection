@@ -9,7 +9,7 @@ future==0.18.2
 fuzzywuzzy==0.18.0
 
 Jinja2==2.11.2
-joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+joblib== 0.16.0
 json5==0.9.5
 jsonschema==3.2.0
 jupyter==1.0.0
